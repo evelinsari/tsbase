@@ -1,9 +1,9 @@
 # Setup
 
-1. npm init -y
-2. npm i -D typescript
+1. npm init -y 
+2. npm i -D typescript 
 3. ni script.ts
-4. npx tsc --init
+4. npx tsc --init  
 5. tsconfig.json l58 - "outDir": "./out",
 6. .gitignore - node_modules out
 7. package.json - "build": "tsc"
